@@ -11,4 +11,4 @@ We definitely want these chapters:
 - FAQ
 - How to do XY?
 
-
+**Feel free to contribute!**
