@@ -10,3 +10,4 @@ There you can find where to look when you are looking for something:
 - **reverb** - look for *freeverb* in *effectchain*
 - **sequencer** - look to *instruments* menu
 - **transpose** - use *capo* for transposing notes by semitones, *noteoctaver* for transposing by octave and *transposefrom* for transposing according to scale
+- **oscilloscope** - you want *waveformviewer* or *spectrum*
