@@ -1,6 +1,6 @@
 # alt-bespoke-docs
 
-alternative documentation for [Bespoke synth](https://github.com/BespokeSynth/BespokeSynthh). Offical docs are [here](https://www.bespokesynth.com/docs/). 
+alternative documentation for [Bespoke synth](https://github.com/BespokeSynth/BespokeSynth). Offical docs are [here](https://www.bespokesynth.com/docs/). 
 
 We have these chapters now:
 
