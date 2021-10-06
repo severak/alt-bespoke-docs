@@ -4,11 +4,11 @@ alternative documentation for [Bespoke synth](https://github.com/BespokeSynth/Be
 
 We have these chapters now:
 
+- [Basic usage](basic_usage.md) covers basic usage, keyboard shortcuts (and answers *How do I do XY?*)
 - [Terminology](terminology.md) documents unusual terminology (and answers *Where do I find XY?*)
 
 We definitely want these chapters:
 
 - FAQ
-- How to do XY?
 
 **Feel free to contribute!**
