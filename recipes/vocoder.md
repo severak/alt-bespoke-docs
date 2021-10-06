@@ -7,5 +7,7 @@ you need these modules:
 - `vocoder` or `fftvocoder` itself
 
 Vocoder needs to be connected both to `input` and `vocodercarrier` modules.
+
+Enjoy your robot voice!
  
 ![](vocoder.png)
