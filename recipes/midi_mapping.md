@@ -13,3 +13,4 @@ Then:
 4) check if your parameters are mapped correctly
 5) delete those what are not needed (most easy in *list* view of `midicontroller`)
 
+![](midi_mapping.png)
